@@ -7,4 +7,4 @@ pygame
 
 ## run
 
-python3 ./HeartSweeper.py
+python3 ./Heartsweeper.py
